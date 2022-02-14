@@ -1,0 +1,26 @@
+.header {
+    background-color: #070708;
+    color: aliceblue;
+    padding: 30px;
+}
+
+.header span {
+    margin-left: 2em;
+    vertical-align: top;
+}
+
+.footer {
+    background-color: #888888;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer a img {
+    width: 40px;
+    margin: 0 10px -15px 40px;
+}

@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: #888888;
+}
+
+.nav {
+    text-align: center;
+    margin: 20px;
+}
+
+.nav a {
+    margin: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.section {
+    margin: 20px;
+}
+
+.block-title {
+    color: #a80505;
+}
